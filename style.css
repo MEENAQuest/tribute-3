@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray; 
+    margin-left: 15%; 
+    margin-right: 15%;  
+}
+
+#container{
+    background-color: gray; 
+    padding: 25px;
+}
+
+.header{
+    background-color: white; 
+    padding: 25px; 
+    margin-top: 5%;
+}
+
+h1{
+    color: blue; 
+    font-size: 40px; 
+    text-align: center;
+}
+
+h3{
+    color: darkblue; 
+    font-size: 20px; 
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+h2{
+    color:teal;
+}
